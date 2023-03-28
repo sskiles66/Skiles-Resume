@@ -28,7 +28,6 @@ General Studies
 - 3.4 GPA
 
 
-
 ## Related Experience
 
 `2022-2023`
