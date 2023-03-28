@@ -17,12 +17,14 @@ Computer Science Major at Brigham Young University-Idaho.
 
 `2022-2024`
 __Brigham Young University - Idaho__, Rexburg, ID
+
 Computer Science Major
 
 - 4.0 GPA
 
 `2020-2021`
 __Everett Community College__, Everett, WA
+
 General Studies
 
 - 3.4 GPA
@@ -32,6 +34,7 @@ General Studies
 
 `2022-2023`
 __Member of Web Development and Design Society__, Rexburg, ID
+
 Worked on personal web projects.
 
 
@@ -41,8 +44,10 @@ Worked on personal web projects.
 
 `2022-2022`
 __Stock Associate__, Dollar Tree
+
 Unloaded product from delivery trucks and stocked shelves.
 
 `2020-2020`
 __Convenience Clerk__, Grocery Outlet
+
 Helped customers and organized shelves.

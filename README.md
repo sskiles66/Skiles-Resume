@@ -1,1 +1,1 @@
-https://github.com/sskiles66/Skiles-Resume/settings/pages
+https://sskiles66.github.io/Skiles-Resume/
